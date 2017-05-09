@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/moshemal/simple-webpack-conf/issues"
   },
-  "homepage": "https://github.com/moshemal/simple-webpack-conf#readme"
+  "homepage": "https://github.com/moshemal/simple-webpack-conf#readme",
+  "devDependencies": {
+    "webpack": "^2.5.1"
+  }
 }
