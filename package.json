@@ -1,0 +1,22 @@
+{
+  "name": "simple-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moshemal/simple-webpack-conf.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Moshe Malka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moshemal/simple-webpack-conf/issues"
+  },
+  "homepage": "https://github.com/moshemal/simple-webpack-conf#readme"
+}
